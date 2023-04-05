@@ -1,3 +1,8 @@
 h1, h2 {
   font-family: Lato;
+  text-align: center;
+}
+
+body{
+  background-image: linear-gradient(to right, pink, yellowgreen);
 }
